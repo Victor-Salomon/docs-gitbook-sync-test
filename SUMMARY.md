@@ -7,7 +7,7 @@
   * [Polkadot Extension](build/create-wallet/polkadot-extension.md)
   * [Subwallet](build/create-wallet/subwallet.md)
 * [Ternoajs](build/ternoajs.md)
-* [Page](<README (1).md>)
+* [Page](build/readme.md)
 
 ***
 
